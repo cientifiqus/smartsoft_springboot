@@ -32,7 +32,7 @@ sus ítems, debido a que no se realizará Front para este ejercicio, se listará
 
 - ### Spring Boot Application
 
-![Screenshot](spring boot.png)
+![Screenshot](springboot.png)
 
 - ### Dummy Entity CRUD (Spanish)
 
